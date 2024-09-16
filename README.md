@@ -1,8 +1,5 @@
 <h1 align="center">Hii , I am Niraj Sharma</h1>
 <h3 align="center">A passionate Softwere developer from India</h3>
- 
- <img align="center" alt="Coding" width="1300"  height="250" src="https://media.tenor.com/_PE0cwZm0W8AAAAi/coffee-work.gif">
-
 
 <img align="Right" alt="Coding" width="400" src="https://media.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif">
 
